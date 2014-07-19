@@ -1,7 +1,13 @@
 # Lists
 
-The `lists` module is clone of [inuitcss] (https://github.com/inuitcss) -
-[base.list] (https://github.com/inuitcss/base.lists) <q>provides very basic
-styling for regular ordered and unordered lists</q>.
+The `lists` module provides very basic styling for regular ordered and
+unordered lists.
 
-It is develop and maintained by [Harry Roberts] (https://twitter.com/csswizardry).
+Install using Bower:
+
+    $ bower install --save inuit-lists
+
+## Credits
+
+* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
+framework designed with scalability and performance in mind.
