@@ -5,7 +5,7 @@ unordered lists.
 
 Install using Bower:
 
-    $ bower install --save inuit-lists
+    $ bower install --save tree-lists
 
 ## Credits
 
