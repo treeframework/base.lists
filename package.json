@@ -1,0 +1,20 @@
+{
+  "name": "tree-lists",
+  "version": "0.1.6",
+  "description": "Base list styles.",
+  "main": "_base.lists.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treeframework/base.lists.git"
+  },
+  "author": "Ilia Kolev <info@iliakolev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treeframework/base.lists/issues"
+  },
+  "homepage": "https://github.com/treeframework/base.lists",
+  "keywords": [
+    "oocss",
+    "css"
+  ]
+}

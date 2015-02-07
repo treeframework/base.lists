@@ -5,7 +5,16 @@ unordered lists.
 
 Install using Bower:
 
-    $ bower install --save tree-lists
+```sh
+$ bower install tree-lists --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-lists --save
+```
+
 
 ## Credits
 
