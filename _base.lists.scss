@@ -1,15 +1,22 @@
-// *************************************
+// =============================================================================
 //
-//   #LISTS
+// Name:          Lists
 //
-// *************************************
+// Description:   Simple list styles.
+//
+// =============================================================================
 
-// Remove extra vertical spacing when nesting lists.
+
+
+
+
+// 1. Remove extra vertical spacing when nesting lists.
+
 li {
 
     > ul,
     > ol {
-        margin-bottom: 0;
+        margin-bottom: 0; // [1]
     }
 
 }
